@@ -133,7 +133,7 @@ MEDIA_ROOT = MEDIA_DIR
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'neeteshsingh9575@gmail.com'
-EMAIL_HOST_PASSWORD = 'yonp khmh xdpp nynq'
+EMAIL_HOST_PASSWORD = 'app password from google'
 EMAIL_USE_TLS = True  #use 587 mail_port for this
 EMAIL_USE_SSL = False #for this port will be 465
 EMAIL_PORT = 587
